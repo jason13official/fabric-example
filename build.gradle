@@ -34,7 +34,7 @@ loom {
 
 	runs {
 		client {
-			programArgs(["--username", "iamjason13", "--uuid", "fc770fcd-11c0-4c5c-818e-4e0f2e0fd8c0"])
+			programArgs(["--username", "blankfxntasy", "--uuid", "47271430-9d70-4590-b4dd-e110a3a1b5f8"])
 		}
 	}
 }
